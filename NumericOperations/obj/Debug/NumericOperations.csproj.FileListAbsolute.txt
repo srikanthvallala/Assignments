@@ -1,0 +1,6 @@
+c:\users\srikanthv\documents\visual studio 2015\Projects\Multiplication3digits\NumericOperations\bin\Debug\NumericOperations.exe.config
+c:\users\srikanthv\documents\visual studio 2015\Projects\Multiplication3digits\NumericOperations\obj\Debug\NumericOperations.csprojResolveAssemblyReference.cache
+c:\users\srikanthv\documents\visual studio 2015\Projects\Multiplication3digits\NumericOperations\bin\Debug\NumericOperations.exe
+c:\users\srikanthv\documents\visual studio 2015\Projects\Multiplication3digits\NumericOperations\bin\Debug\NumericOperations.pdb
+c:\users\srikanthv\documents\visual studio 2015\Projects\Multiplication3digits\NumericOperations\obj\Debug\NumericOperations.exe
+c:\users\srikanthv\documents\visual studio 2015\Projects\Multiplication3digits\NumericOperations\obj\Debug\NumericOperations.pdb
